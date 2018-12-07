@@ -1,7 +1,7 @@
 # How to display items with multiple columns in the xamarin.forms listview?
 This example demonstrates how to display items with multiple columns in the xamarin.forms listview by using the gridlayout.
 
-See [How to display items with multiple columns in the xamarin.forms listview]() for more details.
+See [How to display items with multiple columns in the xamarin.forms listview](https://www.syncfusion.com/kb/9980/how-to-display-items-with-multiple-columns-in-the-xamarin-forms-listview) for more details.
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/).
